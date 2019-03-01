@@ -1,0 +1,5 @@
+https://youtu.be/5ROyHCzLOdk
+
+Here is the link to the YouTube video of the code working on the Arduino. I have the IR remote linked to the serial monitor of
+Arduino in order to show what button is pressed. It is hard to see the LED light up in the beginning of the video due to the
+lighting of the room, so I recorded myself resetting the Arduino and you can clearly see the LED turn off as a result.
